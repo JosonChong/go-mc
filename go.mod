@@ -1,4 +1,4 @@
-module github.com/JosonChong/go-mc
+module github.com/Tnze/go-mc
 
 go 1.13
 
